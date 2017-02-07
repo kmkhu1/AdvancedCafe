@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FoodItem()
+comment1.params=n\ d\ p\ prep\ i1\ i2\ i3\ i4\ i5
+comment1.target=FoodItem(java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getInstructions()
+comment3.params=ing
+comment3.target=void\ addIngredient(java.lang.String)
+numComments=4

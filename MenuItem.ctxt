@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MenuItem()
+comment1.params=n\ d\ p\ prep
+comment1.target=MenuItem(java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ getPreperationMethod()
+comment11.params=
+comment11.target=java.lang.String\ getInstructions()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=n
+comment3.target=void\ setName(java.lang.String)
+comment4.params=d
+comment4.target=void\ setDescription(java.lang.String)
+comment5.params=p
+comment5.target=void\ setPrice(double)
+comment6.params=prep
+comment6.target=void\ setPreperationMethod(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getName()
+comment8.params=
+comment8.target=java.lang.String\ getDiscription()
+comment9.params=
+comment9.target=double\ getPrice()
+numComments=12

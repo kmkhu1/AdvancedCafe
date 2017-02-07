@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CafeManager()
+comment1.params=
+comment1.target=void\ showCafeInterface()
+comment2.params=
+comment2.target=java.util.ArrayList\ getMenuOffers()
+comment3.params=
+comment3.target=java.util.ArrayList\ getCustomerOrders()
+comment4.params=mo
+comment4.target=void\ addToMenu(MenuItem)
+comment5.params=co
+comment5.target=void\ updateOrders(Order)
+comment6.params=
+comment6.target=void\ setDefaultMenu()
+comment7.params=i
+comment7.target=Order\ getSingleOrder(int)
+comment8.params=i
+comment8.target=MenuItem\ getSingleItem(int)
+numComments=9
